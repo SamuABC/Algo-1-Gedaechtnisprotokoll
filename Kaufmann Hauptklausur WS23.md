@@ -44,4 +44,4 @@ a) trage Balancefaktoren in gegebenen AVL Baum ein
 
 b) lösche ein gegebenes Element x aus AVL Baum (hat dazu geführt, dass man eine Rotation durchführen musste)
 
-c) Ergänze den gegebenen AVL Baum so, dass nach löschen von x noch eine weitere Rotation durchgeführt werden muss. 
+c) Ergänze den gegebenen AVL Baum so, dass nach löschen von x eine Doppelrotation durchgeführt werden muss.
