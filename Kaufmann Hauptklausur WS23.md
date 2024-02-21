@@ -4,10 +4,10 @@
 
 Frage: Was gilt für $f = n \cdot 2^n$?
 
-1. $O(2^n)$
+1. $\mathcal{O}(2^n)$
 2. $\Omega (2^n)$
 3. $\Omega(3^n)$
-4. $O(3^n)$
+4. $\mathcal{O}(3^n)$
 
 ## Aufgabe 2: dezimalsystem zu binärsystem / Rekursion
 
